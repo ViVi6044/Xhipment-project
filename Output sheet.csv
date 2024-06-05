@@ -1,0 +1,30 @@
+Q1.,,,,,,
+,,,,,,
+kind,Year,Month,average_delivery_time_per_kind, No. of customers,tp90,tp9
+air_freight-tracking,2023,6,15.25,4,4,4
+air_freight-tracking,2023,7,19.66666667,18,17,18
+dd-tracking,2023,5,46,2,2,2
+dd-tracking,2023,6,6.666666667,3,3,3
+dd-tracking,2023,7,10.66666667,3,3,3
+fcl-tracking,2023,7,36,1,1,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Q2.,,,,,,
+,,,,,,
+,,,,,,
+kind,delivered_year,delivered_month,average_delivery_time_per_kind,No. of customers,tp90,
+air_freight-tracking,2023,6,15.25,4,4,
+air_freight-tracking,2023,7,17.6,30,27,
+air_freight-tracking,2023,8,24.16666667,6,6,
+dd-tracking,2023,5,46,2,2,
+dd-tracking,2023,6,6.666666667,3,3,
+dd-tracking,2023,7,13.45454545,11,10,
+dd-tracking,2023,8,43.25,4,4,
+fcl-tracking,2023,7,43.83333333,6,6,
+fcl-tracking,2023,8,40.57142857,14,13,
+fcl-tracking,2023,9,53,1,1,
+lcl-tracking,2023,7,45.72727273,11,10,
+lcl-tracking,2023,8,46.41463415,41,37,
+lcl-tracking,2023,9,59.85714286,7,7,
